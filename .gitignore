@@ -1,0 +1,10 @@
+﻿ViniciusMiguelLevel2/.vs
+ViniciusMiguelLevel2/.vscode
+ViniciusMiguelLevel2/Library
+ViniciusMiguelLevel2/Logs
+ViniciusMiguelLevel2/obj
+ViniciusMiguelLevel2/UserSettings
+*.vsconfig
+*.csproj
+*.sln
+*.slnx
