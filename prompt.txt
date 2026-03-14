@@ -1,0 +1,118 @@
+A 2D pixel art sprite sheet for a side-scrolling platformer game character.
+
+The character is a mysterious male adventurer wearing a hooded cloak and a red mask covering his face. He has brown hair partially visible under the hood and glowing red eyes, giving him a serious and focused expression.
+
+He carries a large curved scythe in his right hand as his main weapon. His outfit combines adventurer-style clothing with practical combat gear: fitted gloves matching the outfit, layered clothing, boots, and a slightly dark heroic aesthetic. The character should look like someone mysterious who protects and saves people in need.
+
+The sprite sheet should show the character in side view (profile) for a 2D side-scrolling platformer.
+
+Include multiple animation frames arranged in a clean sprite sheet grid:
+
+Idle stance
+
+Walking animation (4–6 frames)
+
+Running animation (4–6 frames)
+
+Jump animation
+
+Attack animation using the scythe
+
+The art style should be 2D pixel art, inspired by the visual style of the games Broforce and Stardew Valley, with clear outlines, readable silhouette, and expressive poses suitable for gameplay.
+
+Consistent character proportions across frames, full body visible, clean spacing between frames, transparent or simple neutral background, optimized for game development sprite extraction. 
+
+
+
+
+
+
+A mysterious male adventurer character designed for a 2D side-scrolling platformer game. He wears a dark hooded cloak with a deep red mask covering his face, giving him a stealthy and enigmatic appearance. His brown hair slightly emerges from under the hood, and his glowing red eyes show determination and focus. The character holds a large, sharp scythe in his right hand, ready for battle. His outfit combines a rugged adventurer’s clothing style with practical gear, including gloves that match the rest of the outfit, reinforced boots, and layered fabric suitable for combat and exploration. His expression is serious and focused, reflecting someone who silently protects and saves those in need. He stands in a combat-ready battle stance, shown from the side view, suitable for a side-scrolling platformer game character sprite. The art style is 2D pixel-art inspired, similar to the visual style of games like Broforce and Stardew Valley, with clean outlines, expressive pose, and strong silhouette for gameplay readability. Game-ready character design, side profile, dynamic pose, stylized proportions, high clarity, vibrant but slightly dark heroic tone, simple background or transparent background. 
+
+
+
+Use the provided character image as the main reference.
+Create a complete 2D pixel-art sprite sheet for a side-scrolling platformer game character.
+
+Character description: a mysterious male adventurer wearing a dark hooded cloak, deep red face mask, and brown hair slightly visible under the hood. His eyes glow red, giving him a focused and determined look.
+He wields a large sharp scythe in his right hand.
+His outfit consists of rugged adventurer gear, gloves, reinforced boots, layered combat fabrics, and small utility pouches.
+
+Art style: 2D pixel art, inspired by Broforce and Stardew Valley, clean outlines, strong silhouette, readable for gameplay.
+
+View: side view (profile) for a 2D platformer.
+
+The sprite sheet must include the following animations:
+
+Idle (4–6 frames)
+
+Walk (6–8 frames)
+
+Run (6–8 frames)
+
+Jump start
+
+Jump loop
+
+Fall
+
+Land
+
+Attack with scythe (6–8 frames)
+
+Hurt / damage reaction
+
+Death animation
+
+Character pose must remain consistent with the reference image design.
+
+Style: game-ready sprite sheet, pixel art, consistent lighting, consistent proportions.
+
+Layout: organized grid sprite sheet, equal spacing between frames.
+
+Background: transparent or plain neutral background.
+
+Resolution style: high-quality pixel art, crisp edges, retro game sprite aesthetic.
+
+Negative Prompt (muito importante para IA)
+
+Use junto:
+
+blurry, 2D render, realistic style, painterly, anime illustration, soft shading, inconsistent character design, different outfit, different weapon, extra limbs, messy sprite layout, broken animation frames
+
+Versão ainda melhor (para IA que aceita instruções fortes)
+
+Adicione no final:
+
+Maintain exact character design from the reference image. Same cloak, mask, scythe, colors, and silhouette. Consistent sprite scale across all frames
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
