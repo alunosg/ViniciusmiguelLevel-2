@@ -8,24 +8,34 @@ public class PlayerController : MonoBehaviour
     public float speed = 10;
     public float jumpForce = 10;
     public LayerMask floorLayer;
+    public Animator anim;
 
     private Vector2 moveInput;
+    private bool grounded = false;
+    private bool locked = false;
 
     public void MoveInput(InputAction.CallbackContext contexte)
     {
         moveInput = contexte.ReadValue<Vector2>();
+        anim.SetBool("IsWalking", moveInput.x != 0);
+        transform.localScale = new(
+            moveInput.x > 0 ? 1 : moveInput.x < 0 ? -1 : transform.lossyScale.x, 1);
     }
 
     public void JumpInput(InputAction.CallbackContext contexte)
     {
-        if (contexte.started)
+        if (contexte.started && grounded)
         {
-            ExecuteJump();
-        }
+            rig.linearVelocity = new Vector2
+            (
+                rig.linearVelocity.x,
+                jumpForce
+            );
+        } 
 
     }
 
-    private void ExecuteJump()
+    private void DetectGround()
     {
         Vector2 pLeft = new Vector2(col.bounds.min.x, col.bounds.max.y);
         Vector2 pRight = new Vector2(col.bounds.max.x, col.bounds.max.y);
@@ -33,16 +43,20 @@ public class PlayerController : MonoBehaviour
         if (Physics2D.Raycast(pLeft, Vector2.down, col.bounds.size.y * 1.1f, floorLayer) ||
             Physics2D.Raycast(pRight, Vector2.down, col.bounds.size.y * 1.1f, floorLayer))
         {
-            rig.linearVelocity = new Vector2
-             (
-                 rig.linearVelocity.x,
-                 jumpForce
-             );
+            grounded = true;
         }
+        else
+        {
+            grounded = false;
+        }
+
+        anim.SetBool("IsGrounded", grounded);
     }
 
     private void FixedUpdate()
     {
+        DetectGround();
+
         rig.linearVelocity = new Vector2
 
             (

@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 7672eb3061ed51248bdbdf588856069a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4115309948922149166
+    second: sprite-max-px-36 (Death 2)_0
+  - first:
+      213: 5403221363903677166
+    second: sprite-max-px-36 (Death 2)_1
+  - first:
+      213: 182187046759357790
+    second: sprite-max-px-36 (Death 2)_2
+  - first:
+      213: -1244226163547982046
+    second: sprite-max-px-36 (Death 2)_3
+  - first:
+      213: 2072281802760717885
+    second: sprite-max-px-36 (Death 2)_4
+  - first:
+      213: 2059642412103253678
+    second: sprite-max-px-36 (Death 2)_5
+  - first:
+      213: -7049296881771897298
+    second: sprite-max-px-36 (Death 2)_6
+  - first:
+      213: 4647064674027812311
+    second: sprite-max-px-36 (Death 2)_7
+  - first:
+      213: -2678521401000756960
+    second: sprite-max-px-36 (Death 2)_8
+  - first:
+      213: -1233969463672435970
+    second: sprite-max-px-36 (Death 2)_9
+  - first:
+      213: 4760983180799611565
+    second: sprite-max-px-36 (Death 2)_10
+  - first:
+      213: 7621167252542402594
+    second: sprite-max-px-36 (Death 2)_11
+  - first:
+      213: 8269191832672461394
+    second: sprite-max-px-36 (Death 2)_12
+  - first:
+      213: 3276345606307994480
+    second: sprite-max-px-36 (Death 2)_13
+  - first:
+      213: -2988940267314841681
+    second: sprite-max-px-36 (Death 2)_14
+  - first:
+      213: -3529247709927317336
+    second: sprite-max-px-36 (Death 2)_15
+  - first:
+      213: 298201782859353437
+    second: sprite-max-px-36 (Death 2)_16
+  - first:
+      213: 3126488307225211020
+    second: sprite-max-px-36 (Death 2)_17
+  - first:
+      213: -264656395499735802
+    second: sprite-max-px-36 (Death 2)_18
+  - first:
+      213: 8290414123422170347
+    second: sprite-max-px-36 (Death 2)_19
+  - first:
+      213: -1159814792552468447
+    second: sprite-max-px-36 (Death 2)_20
+  - first:
+      213: 3411417269938480957
+    second: sprite-max-px-36 (Death 2)_21
+  - first:
+      213: 3089310323280183451
+    second: sprite-max-px-36 (Death 2)_22
+  - first:
+      213: -6695822230256125599
+    second: sprite-max-px-36 (Death 2)_23
+  - first:
+      213: 8584599081888783726
+    second: sprite-max-px-36 (Death 2)_24
+  - first:
+      213: 8855928687212849239
+    second: sprite-max-px-36 (Death 2)_25
+  - first:
+      213: 8240085716429382374
+    second: sprite-max-px-36 (Death 2)_26
+  - first:
+      213: -7425379825493938862
+    second: sprite-max-px-36 (Death 2)_27
+  - first:
+      213: 6237552048878127721
+    second: sprite-max-px-36 (Death 2)_28
+  - first:
+      213: 4708825464887390054
+    second: sprite-max-px-36 (Death 2)_29
+  - first:
+      213: -279587146891473887
+    second: sprite-max-px-36 (Death 2)_30
+  - first:
+      213: 5439047356392697950
+    second: sprite-max-px-36 (Death 2)_31
+  - first:
+      213: 7341534469764834326
+    second: sprite-max-px-36 (Death 2)_32
+  - first:
+      213: -6990570265357148099
+    second: sprite-max-px-36 (Death 2)_33
+  - first:
+      213: -1091648624074496832
+    second: sprite-max-px-36 (Death 2)_34
+  - first:
+      213: -1299798306982177156
+    second: sprite-max-px-36 (Death 2)_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 163
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_0
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2594
+        width: 354
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29b22e38948c1930800000000000000
+      internalID: 4115309948922149166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_1
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 2594
+        width: 354
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2c746f3391cfa40800000000000000
+      internalID: 5403221363903677166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_2
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2594
+        width: 354
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dd4cc5722478200800000000000000
+      internalID: 182187046759357790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_3
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 2594
+        width: 354
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227b97d75ee9bbee0800000000000000
+      internalID: -1244226163547982046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_4
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 2594
+        width: 353
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d360f08f15932cc10800000000000000
+      internalID: 2072281802760717885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_5
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 2594
+        width: 352
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae3eb18cd1559c10800000000000000
+      internalID: 2059642412103253678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2094
+        width: 352
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e97b5b5dddb2e90800000000000000
+      internalID: -7049296881771897298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_7
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 2094
+        width: 352
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5b1b723b0bd7040800000000000000
+      internalID: 4647064674027812311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_8
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 2094
+        width: 352
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029711a2afaf3dad0800000000000000
+      internalID: -2678521401000756960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_9
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 2094
+        width: 354
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa00268f4f00eee0800000000000000
+      internalID: -1233969463672435970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_10
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 2094
+        width: 355
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da29b296af8621240800000000000000
+      internalID: 4760983180799611565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_11
+      rect:
+        serializedVersion: 2
+        x: 3865
+        y: 2094
+        width: 356
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22031adcc33d3c960800000000000000
+      internalID: 7621167252542402594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_12
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1594
+        width: 356
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252e006e82212c270800000000000000
+      internalID: 8269191832672461394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_13
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1594
+        width: 356
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b566958fae77d20800000000000000
+      internalID: 3276345606307994480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_14
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1594
+        width: 358
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa776d7b9a62586d0800000000000000
+      internalID: -2988940267314841681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_15
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 1594
+        width: 358
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0eb6518e7950fc0800000000000000
+      internalID: -3529247709927317336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_16
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 1594
+        width: 351
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d48ba01fc632400800000000000000
+      internalID: 298201782859353437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_17
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 1594
+        width: 345
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c803292fc84836b20800000000000000
+      internalID: 3126488307225211020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_18
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1094
+        width: 344
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605f3b61960c35cf0800000000000000
+      internalID: -264656395499735802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_19
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1094
+        width: 340
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becb57388b77d0370800000000000000
+      internalID: 8290414123422170347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_20
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1093
+        width: 334
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120baa4579287efe0800000000000000
+      internalID: -1159814792552468447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_21
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 1091
+        width: 311
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37e05bbee9c75f20800000000000000
+      internalID: 3411417269938480957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_22
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 1094
+        width: 345
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9000140f5f6fda20800000000000000
+      internalID: 3089310323280183451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_23
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 1094
+        width: 358
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1697b665829a313a0800000000000000
+      internalID: -6695822230256125599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_24
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 588
+        width: 436
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d102fb16f922770800000000000000
+      internalID: 8584599081888783726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_25
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 584
+        width: 530
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7586385683496ea70800000000000000
+      internalID: 8855928687212849239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_26
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 511
+        width: 541
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e22b8e1d4aaa5270800000000000000
+      internalID: 8240085716429382374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_27
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 507
+        width: 543
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25de41bd360c3f890800000000000000
+      internalID: -7425379825493938862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_28
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 511
+        width: 544
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a046d5a8c309650800000000000000
+      internalID: 6237552048878127721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_29
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 512
+        width: 545
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f2de7dfcb195140800000000000000
+      internalID: 4708825464887390054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 544
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cc4c1a8f4be1cf0800000000000000
+      internalID: -279587146891473887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_31
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 12
+        width: 545
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50705ad0c06b7b40800000000000000
+      internalID: 5439047356392697950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_32
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 12
+        width: 545
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6146e9004be52e560800000000000000
+      internalID: 7341534469764834326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_33
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 12
+        width: 545
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30aafb91618cfe90800000000000000
+      internalID: -6990570265357148099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_34
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 12
+        width: 545
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4ee763c5fa9d0f0800000000000000
+      internalID: -1091648624074496832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Death 2)_35
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 12
+        width: 545
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c765ca0935036fde0800000000000000
+      internalID: -1299798306982177156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite-max-px-36 (Death 2)_0: 4115309948922149166
+      sprite-max-px-36 (Death 2)_1: 5403221363903677166
+      sprite-max-px-36 (Death 2)_10: 4760983180799611565
+      sprite-max-px-36 (Death 2)_11: 7621167252542402594
+      sprite-max-px-36 (Death 2)_12: 8269191832672461394
+      sprite-max-px-36 (Death 2)_13: 3276345606307994480
+      sprite-max-px-36 (Death 2)_14: -2988940267314841681
+      sprite-max-px-36 (Death 2)_15: -3529247709927317336
+      sprite-max-px-36 (Death 2)_16: 298201782859353437
+      sprite-max-px-36 (Death 2)_17: 3126488307225211020
+      sprite-max-px-36 (Death 2)_18: -264656395499735802
+      sprite-max-px-36 (Death 2)_19: 8290414123422170347
+      sprite-max-px-36 (Death 2)_2: 182187046759357790
+      sprite-max-px-36 (Death 2)_20: -1159814792552468447
+      sprite-max-px-36 (Death 2)_21: 3411417269938480957
+      sprite-max-px-36 (Death 2)_22: 3089310323280183451
+      sprite-max-px-36 (Death 2)_23: -6695822230256125599
+      sprite-max-px-36 (Death 2)_24: 8584599081888783726
+      sprite-max-px-36 (Death 2)_25: 8855928687212849239
+      sprite-max-px-36 (Death 2)_26: 8240085716429382374
+      sprite-max-px-36 (Death 2)_27: -7425379825493938862
+      sprite-max-px-36 (Death 2)_28: 6237552048878127721
+      sprite-max-px-36 (Death 2)_29: 4708825464887390054
+      sprite-max-px-36 (Death 2)_3: -1244226163547982046
+      sprite-max-px-36 (Death 2)_30: -279587146891473887
+      sprite-max-px-36 (Death 2)_31: 5439047356392697950
+      sprite-max-px-36 (Death 2)_32: 7341534469764834326
+      sprite-max-px-36 (Death 2)_33: -6990570265357148099
+      sprite-max-px-36 (Death 2)_34: -1091648624074496832
+      sprite-max-px-36 (Death 2)_35: -1299798306982177156
+      sprite-max-px-36 (Death 2)_4: 2072281802760717885
+      sprite-max-px-36 (Death 2)_5: 2059642412103253678
+      sprite-max-px-36 (Death 2)_6: -7049296881771897298
+      sprite-max-px-36 (Death 2)_7: 4647064674027812311
+      sprite-max-px-36 (Death 2)_8: -2678521401000756960
+      sprite-max-px-36 (Death 2)_9: -1233969463672435970
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
