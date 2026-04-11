@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 7e3243b47354f45419ed1cd66026c255
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3060576055276788119
+    second: sprite-max-px-36 (7)_0
+  - first:
+      213: 2718261305420914624
+    second: sprite-max-px-36 (7)_1
+  - first:
+      213: -7686828469343349531
+    second: sprite-max-px-36 (7)_2
+  - first:
+      213: -7928206353881179058
+    second: sprite-max-px-36 (7)_3
+  - first:
+      213: 5563859649635778620
+    second: sprite-max-px-36 (7)_4
+  - first:
+      213: -5360365658245737023
+    second: sprite-max-px-36 (7)_5
+  - first:
+      213: 864980420969723896
+    second: sprite-max-px-36 (7)_6
+  - first:
+      213: 7941146317957699807
+    second: sprite-max-px-36 (7)_7
+  - first:
+      213: 8872702694061809264
+    second: sprite-max-px-36 (7)_8
+  - first:
+      213: 6195930218331301762
+    second: sprite-max-px-36 (7)_9
+  - first:
+      213: -5665431731606655238
+    second: sprite-max-px-36 (7)_10
+  - first:
+      213: -2473285151819822107
+    second: sprite-max-px-36 (7)_11
+  - first:
+      213: 2924906863648291949
+    second: sprite-max-px-36 (7)_12
+  - first:
+      213: 7383891620178517894
+    second: sprite-max-px-36 (7)_13
+  - first:
+      213: -1630563006873844393
+    second: sprite-max-px-36 (7)_14
+  - first:
+      213: 6002280031613634683
+    second: sprite-max-px-36 (7)_15
+  - first:
+      213: -8816338429170675516
+    second: sprite-max-px-36 (7)_16
+  - first:
+      213: -4357148817406397065
+    second: sprite-max-px-36 (7)_17
+  - first:
+      213: -5429522386342539293
+    second: sprite-max-px-36 (7)_18
+  - first:
+      213: -1367061253360920627
+    second: sprite-max-px-36 (7)_19
+  - first:
+      213: -8855525386186258752
+    second: sprite-max-px-36 (7)_20
+  - first:
+      213: -266633829507602728
+    second: sprite-max-px-36 (7)_21
+  - first:
+      213: 338435044045302442
+    second: sprite-max-px-36 (7)_22
+  - first:
+      213: -7285080383156346781
+    second: sprite-max-px-36 (7)_23
+  - first:
+      213: 8985447108420643790
+    second: sprite-max-px-36 (7)_24
+  - first:
+      213: -7837616317804242775
+    second: sprite-max-px-36 (7)_25
+  - first:
+      213: -7035241856993218981
+    second: sprite-max-px-36 (7)_26
+  - first:
+      213: -8150612785327943849
+    second: sprite-max-px-36 (7)_27
+  - first:
+      213: -3009194832944080784
+    second: sprite-max-px-36 (7)_28
+  - first:
+      213: 5948990235569504117
+    second: sprite-max-px-36 (7)_29
+  - first:
+      213: -3383022891984465557
+    second: sprite-max-px-36 (7)_30
+  - first:
+      213: 1053051520605663142
+    second: sprite-max-px-36 (7)_31
+  - first:
+      213: -6963256041388067144
+    second: sprite-max-px-36 (7)_32
+  - first:
+      213: 7577888498004573128
+    second: sprite-max-px-36 (7)_33
+  - first:
+      213: 8086277509733155562
+    second: sprite-max-px-36 (7)_34
+  - first:
+      213: 2030387422361537510
+    second: sprite-max-px-36 (7)_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3680
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a11d935362fca4e9b96df8d3e2fe00
+      internalID: 275048559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3680
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5400be438dccc547b5aa29d442e501a
+      internalID: 709612966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_2
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 3680
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8b757fa6ab89c44bff031ee43e7c70
+      internalID: 1738736975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_3
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 3680
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5100d27967d31742a597a800a5ab5e9
+      internalID: -1331466771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_4
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 3680
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8739f590727f75e48af3abad5d6a5e3c
+      internalID: -1557848310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_5
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3680
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169e4e5b1aa8f464aa6c71f990485487
+      internalID: 883827831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2944
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3865b5329f35be4a8aa893d11f83441
+      internalID: -1460638451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2944
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783436a61c55e6b47b4f0aac57ed88c7
+      internalID: -770957868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_8
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2944
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf99a1577358114d850ef3a6f4ba621
+      internalID: 1590095235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_9
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2944
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae276ef525c21343b30c288b16e29e3
+      internalID: -1612017709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_10
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2944
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa89c586ebcec4e4382b6ba238dfd830
+      internalID: -934641888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_11
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2944
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bffdcb6be17424dac638c31c6b2e8e
+      internalID: 588786971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2208
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948f3e2d78940ab4b94dc62f703a3d1a
+      internalID: -1122712614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_13
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2208
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425cc4c1ec073ce4eabb10073babfd85
+      internalID: 1785286527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_14
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2208
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b239f8174e4748a4fb435313b735d3c5
+      internalID: 247765579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_15
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2208
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635a13496362447458778d715737ab15
+      internalID: -612758660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_16
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2208
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb830ca64565dfa4c96f5b87929933da
+      internalID: 1362722494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_17
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2208
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f792231a351d1dc4f8986dfe675503c1
+      internalID: -360206059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127eb505ba98f7242b7fd895b2d7ca80
+      internalID: -1482595225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_19
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1472
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c486b15ce8505f48896c5fc2ca9882e
+      internalID: 491539086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_20
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1472
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679ce4c7a0edfc14d8782b9742b0280c
+      internalID: 423571057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_21
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1472
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94af3a7d87703d44b9e3b3ed2bf7e308
+      internalID: 498833400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_22
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1472
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed234354a0b04c45be8d0380e850b91
+      internalID: -1770719534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_23
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1472
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdf1d1bc54b2d94aa0144cd8756d8ad
+      internalID: -943640309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba921cd5947f7fa4fbef51fa88fa65bf
+      internalID: 1305290325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_25
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 736
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed331ad2d986b8e46b371fb1f71b92d3
+      internalID: -1863923222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_26
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 736
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941e3258828b11347b5dca33d46a0a77
+      internalID: -1218699845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_27
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 736
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3b174425c7f944d8bb8f40c8b763dc
+      internalID: 1729346035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_28
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 736
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6711cc2293bc3f449ada8ddf17d00ed3
+      internalID: -1961601029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_29
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 736
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d32bb66d2cbc4a4e9142e5d7dd51390
+      internalID: -41085945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837405917dcc6724e9e58f849a486ce7
+      internalID: -52795376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_31
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea68204c38635b40b81fc372dd878fc
+      internalID: -1514328916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_32
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488d3614845f46f439a28f65f8f42758
+      internalID: 1461446620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_33
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f91220a11899f4f805a0b3f32e96cf
+      internalID: 195943566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_34
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1012baaccd2bf14ab4795b1c1b11727
+      internalID: 1897490436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-max-px-36 (Air Attack)_35
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 0
+        width: 544
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cb53341c1386b42ae9a4c740681dfc
+      internalID: 2139577233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c1fbea20ce112564e8dc409b3b2d2453
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":544.0,"y":736.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      sprite-max-px-36 (Air Attack)_0: 275048559
+      sprite-max-px-36 (Air Attack)_1: 709612966
+      sprite-max-px-36 (Air Attack)_10: -934641888
+      sprite-max-px-36 (Air Attack)_11: 588786971
+      sprite-max-px-36 (Air Attack)_12: -1122712614
+      sprite-max-px-36 (Air Attack)_13: 1785286527
+      sprite-max-px-36 (Air Attack)_14: 247765579
+      sprite-max-px-36 (Air Attack)_15: -612758660
+      sprite-max-px-36 (Air Attack)_16: 1362722494
+      sprite-max-px-36 (Air Attack)_17: -360206059
+      sprite-max-px-36 (Air Attack)_18: -1482595225
+      sprite-max-px-36 (Air Attack)_19: 491539086
+      sprite-max-px-36 (Air Attack)_2: 1738736975
+      sprite-max-px-36 (Air Attack)_20: 423571057
+      sprite-max-px-36 (Air Attack)_21: 498833400
+      sprite-max-px-36 (Air Attack)_22: -1770719534
+      sprite-max-px-36 (Air Attack)_23: -943640309
+      sprite-max-px-36 (Air Attack)_24: 1305290325
+      sprite-max-px-36 (Air Attack)_25: -1863923222
+      sprite-max-px-36 (Air Attack)_26: -1218699845
+      sprite-max-px-36 (Air Attack)_27: 1729346035
+      sprite-max-px-36 (Air Attack)_28: -1961601029
+      sprite-max-px-36 (Air Attack)_29: -41085945
+      sprite-max-px-36 (Air Attack)_3: -1331466771
+      sprite-max-px-36 (Air Attack)_30: -52795376
+      sprite-max-px-36 (Air Attack)_31: -1514328916
+      sprite-max-px-36 (Air Attack)_32: 1461446620
+      sprite-max-px-36 (Air Attack)_33: 195943566
+      sprite-max-px-36 (Air Attack)_34: 1897490436
+      sprite-max-px-36 (Air Attack)_35: 2139577233
+      sprite-max-px-36 (Air Attack)_4: -1557848310
+      sprite-max-px-36 (Air Attack)_5: 883827831
+      sprite-max-px-36 (Air Attack)_6: -1460638451
+      sprite-max-px-36 (Air Attack)_7: -770957868
+      sprite-max-px-36 (Air Attack)_8: 1590095235
+      sprite-max-px-36 (Air Attack)_9: -1612017709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -9,6 +9,11 @@ public class PlayerController : MonoBehaviour
     public float jumpForce = 10;
     public LayerMask floorLayer;
     public Animator anim;
+    public float attackDuration = 1.0f;
+    public float airAttackDuration = 1.0f;
+
+    public GameObject attackFX, attackHitFX,  hitFX, deathFX;
+    public Transform attackPoint;
 
     private Vector2 moveInput;
     private bool grounded = false;
@@ -24,7 +29,7 @@ public class PlayerController : MonoBehaviour
 
     public void JumpInput(InputAction.CallbackContext contexte)
     {
-        if (contexte.started && grounded)
+        if (!locked && contexte.started && grounded)
         {
             rig.linearVelocity = new Vector2
             (
@@ -34,6 +39,19 @@ public class PlayerController : MonoBehaviour
         } 
 
     }
+
+    public void AttackInput(InputAction.CallbackContext contexte)
+    {
+         if (!locked && contexte.started)
+        {
+            anim.SetTrigger("Attack");
+            locked = true;
+            if(attackFX) Instantiate(attackFX, attackPoint.position, attackPoint.rotation);
+            Invoke(nameof(Unlock), grounded ? attackDuration : airAttackDuration);
+        }
+    }
+
+        private void Unlock() => locked = false;
 
     private void DetectGround()
     {
@@ -60,7 +78,7 @@ public class PlayerController : MonoBehaviour
         rig.linearVelocity = new Vector2
 
             (
-                speed * moveInput.x,
+                locked && grounded ? 0 : speed * moveInput.x,
                 rig.linearVelocity.y
             );
     }
