@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 0f1a29d4ca4e83941b0f34364a362a2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4626566057401657989
+    second: inimigo Death_0
+  - first:
+      213: -7978481772912271488
+    second: inimigo Death_1
+  - first:
+      213: -6237667117456327590
+    second: inimigo Death_2
+  - first:
+      213: 2088873099695182804
+    second: inimigo Death_3
+  - first:
+      213: -1832420014318669427
+    second: inimigo Death_4
+  - first:
+      213: -6489846202991837117
+    second: inimigo Death_5
+  - first:
+      213: 5778435023988783145
+    second: inimigo Death_6
+  - first:
+      213: -2927764964401723108
+    second: inimigo Death_7
+  - first:
+      213: 7878172949899158862
+    second: inimigo Death_8
+  - first:
+      213: -3650180754854162067
+    second: inimigo Death_9
+  - first:
+      213: -3269202883506449057
+    second: inimigo Death_10
+  - first:
+      213: 327628353182718962
+    second: inimigo Death_11
+  - first:
+      213: -5862621733461300023
+    second: inimigo Death_12
+  - first:
+      213: 45038916929234515
+    second: inimigo Death_13
+  - first:
+      213: -8720606768483642581
+    second: inimigo Death_14
+  - first:
+      213: -8381509844046203212
+    second: inimigo Death_15
+  - first:
+      213: -7151459219534647090
+    second: inimigo Death_16
+  - first:
+      213: 1904873703910136523
+    second: inimigo Death_17
+  - first:
+      213: 4857509184506718342
+    second: inimigo Death_18
+  - first:
+      213: 4739475257786800268
+    second: inimigo Death_19
+  - first:
+      213: -6262155031918958137
+    second: inimigo Death_20
+  - first:
+      213: -1941568879911118114
+    second: inimigo Death_21
+  - first:
+      213: -4191542674491529138
+    second: inimigo Death_22
+  - first:
+      213: -3399529996924127886
+    second: inimigo Death_23
+  - first:
+      213: -3285654053090003944
+    second: inimigo Death_24
+  - first:
+      213: -8926142304810976668
+    second: inimigo Death_25
+  - first:
+      213: 6298840861722600503
+    second: inimigo Death_26
+  - first:
+      213: 6964063760198999039
+    second: inimigo Death_27
+  - first:
+      213: -437311879315201807
+    second: inimigo Death_28
+  - first:
+      213: 8905906265604269
+    second: inimigo Death_29
+  - first:
+      213: 6745737924609519654
+    second: inimigo Death_30
+  - first:
+      213: -5264684130492485814
+    second: inimigo Death_31
+  - first:
+      213: -5681225815972309885
+    second: inimigo Death_32
+  - first:
+      213: 5008247815906774834
+    second: inimigo Death_33
+  - first:
+      213: -3646164203626458486
+    second: inimigo Death_34
+  - first:
+      213: 5415646390628766358
+    second: inimigo Death_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inimigo Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2550
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75d1b2fea22bcfb0800000000000000
+      internalID: -4626566057401657989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2550
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f92ae691db64190800000000000000
+      internalID: -7978481772912271488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_2
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2550
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c71e42eca5f69a0800000000000000
+      internalID: -6237667117456327590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_3
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 2550
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d35330540b2dfc10800000000000000
+      internalID: 2088873099695182804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_4
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 2550
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81383f94bfe196e0800000000000000
+      internalID: -1832420014318669427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_5
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 2550
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34001c7534f6fe5a0800000000000000
+      internalID: -6489846202991837117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928f682f900213050800000000000000
+      internalID: 5778435023988783145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_7
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2040
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19400fd64d7e57d0800000000000000
+      internalID: -2927764964401723108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_8
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2040
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45a4ddbe84e45d60800000000000000
+      internalID: 7878172949899158862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_9
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 2040
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6153f461f3f75dc0800000000000000
+      internalID: -3650180754854162067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_10
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 2040
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f555ae56c4571a2d0800000000000000
+      internalID: -3269202883506449057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_11
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 2040
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb5dc95048fb8400800000000000000
+      internalID: 327628353182718962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1530
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cced8c4898c3aea0800000000000000
+      internalID: -5862621733461300023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1530
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356a2a408a200a000800000000000000
+      internalID: 45038916929234515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_14
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1530
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b235aaa095e2af680800000000000000
+      internalID: -8720606768483642581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_15
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1530
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6bf283435eeab80800000000000000
+      internalID: -8381509844046203212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_16
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 1530
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0f1f9dab9e0cc90800000000000000
+      internalID: -7151459219534647090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_17
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1530
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcadb8f8a887f6a10800000000000000
+      internalID: 1904873703910136523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68868bbfdd6596340800000000000000
+      internalID: 4857509184506718342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_19
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1020
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88922ad2aff5c140800000000000000
+      internalID: 4739475257786800268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_20
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1020
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9ab024d2b5819a0800000000000000
+      internalID: -6262155031918958137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_21
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1020
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edad1fdf3692e05e0800000000000000
+      internalID: -1941568879911118114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_22
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 1020
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48aa023526a4d5c0800000000000000
+      internalID: -4191542674491529138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_23
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1020
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2757d02ba7172d0d0800000000000000
+      internalID: -3399529996924127886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8147fbefb030762d0800000000000000
+      internalID: -3285654053090003944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_25
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 510
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ab723ddd8ff1480800000000000000
+      internalID: -8926142304810976668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_26
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 510
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734e0bb146af96750800000000000000
+      internalID: 6298840861722600503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_27
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 510
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb15dbb71355a060800000000000000
+      internalID: 6964063760198999039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_28
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 510
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0eb59a92b5ee9f0800000000000000
+      internalID: -437311879315201807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_29
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 510
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da04d53efd3af1000800000000000000
+      internalID: 8905906265604269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6203b38e6ecad9d50800000000000000
+      internalID: 6745737924609519654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_31
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4feb534da510f6b0800000000000000
+      internalID: -5264684130492485814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_32
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 0
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3841136883b3821b0800000000000000
+      internalID: -5681225815972309885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_33
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 0
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fcf3e8aded08540800000000000000
+      internalID: 5008247815906774834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_34
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 0
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82991a99f8366dc0800000000000000
+      internalID: -3646164203626458486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Death_35
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 0
+        width: 638
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692dd8ee2bd382b40800000000000000
+      internalID: 5415646390628766358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 90d783e5ca6a1f04287d4b5769cf72db
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":638.0,"y":510.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      inimigo Death_0: -4626566057401657989
+      inimigo Death_1: -7978481772912271488
+      inimigo Death_10: -3269202883506449057
+      inimigo Death_11: 327628353182718962
+      inimigo Death_12: -5862621733461300023
+      inimigo Death_13: 45038916929234515
+      inimigo Death_14: -8720606768483642581
+      inimigo Death_15: -8381509844046203212
+      inimigo Death_16: -7151459219534647090
+      inimigo Death_17: 1904873703910136523
+      inimigo Death_18: 4857509184506718342
+      inimigo Death_19: 4739475257786800268
+      inimigo Death_2: -6237667117456327590
+      inimigo Death_20: -6262155031918958137
+      inimigo Death_21: -1941568879911118114
+      inimigo Death_22: -4191542674491529138
+      inimigo Death_23: -3399529996924127886
+      inimigo Death_24: -3285654053090003944
+      inimigo Death_25: -8926142304810976668
+      inimigo Death_26: 6298840861722600503
+      inimigo Death_27: 6964063760198999039
+      inimigo Death_28: -437311879315201807
+      inimigo Death_29: 8905906265604269
+      inimigo Death_3: 2088873099695182804
+      inimigo Death_30: 6745737924609519654
+      inimigo Death_31: -5264684130492485814
+      inimigo Death_32: -5681225815972309885
+      inimigo Death_33: 5008247815906774834
+      inimigo Death_34: -3646164203626458486
+      inimigo Death_35: 5415646390628766358
+      inimigo Death_4: -1832420014318669427
+      inimigo Death_5: -6489846202991837117
+      inimigo Death_6: 5778435023988783145
+      inimigo Death_7: -2927764964401723108
+      inimigo Death_8: 7878172949899158862
+      inimigo Death_9: -3650180754854162067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

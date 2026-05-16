@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 0f695729fa772e342a43d2b13205e35b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 284536029380191802
+    second: inimigo idle_0
+  - first:
+      213: -991957539153352792
+    second: inimigo idle_1
+  - first:
+      213: -1531587738131127346
+    second: inimigo idle_2
+  - first:
+      213: 542543138319267713
+    second: inimigo idle_3
+  - first:
+      213: -2549525554213595427
+    second: inimigo idle_4
+  - first:
+      213: 8383988898044799954
+    second: inimigo idle_5
+  - first:
+      213: 4201758359814323678
+    second: inimigo idle_6
+  - first:
+      213: 6447675994344053559
+    second: inimigo idle_7
+  - first:
+      213: 479021848846504268
+    second: inimigo idle_8
+  - first:
+      213: 6403681193298387804
+    second: inimigo idle_9
+  - first:
+      213: -5879791302026868451
+    second: inimigo idle_10
+  - first:
+      213: 9129222124268628084
+    second: inimigo idle_11
+  - first:
+      213: -6172085333430427644
+    second: inimigo idle_12
+  - first:
+      213: 4223612992956931477
+    second: inimigo idle_13
+  - first:
+      213: -3827690894762526188
+    second: inimigo idle_14
+  - first:
+      213: 9020033161904647997
+    second: inimigo idle_15
+  - first:
+      213: -84258958466624079
+    second: inimigo idle_16
+  - first:
+      213: 2129421059496478797
+    second: inimigo idle_17
+  - first:
+      213: -444172246334991455
+    second: inimigo idle_18
+  - first:
+      213: 8504678942196298806
+    second: inimigo idle_19
+  - first:
+      213: -8154390450913418916
+    second: inimigo idle_20
+  - first:
+      213: -8888792605728179101
+    second: inimigo idle_21
+  - first:
+      213: 4272906971921668439
+    second: inimigo idle_22
+  - first:
+      213: -6037107646851100858
+    second: inimigo idle_23
+  - first:
+      213: -3146191372640785624
+    second: inimigo idle_24
+  - first:
+      213: -7215169467697757775
+    second: inimigo idle_25
+  - first:
+      213: 7113887825170090977
+    second: inimigo idle_26
+  - first:
+      213: -9055997304015225944
+    second: inimigo idle_27
+  - first:
+      213: 8081237342976157291
+    second: inimigo idle_28
+  - first:
+      213: 8946160527883427352
+    second: inimigo idle_29
+  - first:
+      213: -9006093527626997914
+    second: inimigo idle_30
+  - first:
+      213: 3445020078319351225
+    second: inimigo idle_31
+  - first:
+      213: 7356719721811775354
+    second: inimigo idle_32
+  - first:
+      213: 4322380173953088591
+    second: inimigo idle_33
+  - first:
+      213: -1897744852044838984
+    second: inimigo idle_34
+  - first:
+      213: 3358105799599012402
+    second: inimigo idle_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inimigo idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2140
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36a10dd200e2f300800000000000000
+      internalID: 284536029380191802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2140
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a76e7eafdbdb32f0800000000000000
+      internalID: -991957539153352792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2140
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3a95e1115bebae0800000000000000
+      internalID: -1531587738131127346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2140
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18778da1c10878700800000000000000
+      internalID: 542543138319267713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2140
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6515334044e9cd0800000000000000
+      internalID: -2549525554213595427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2140
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db67c48b79e95470800000000000000
+      internalID: 8383988898044799954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1712
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddb2c467f4af4a30800000000000000
+      internalID: 4201758359814323678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1712
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bd0b5d72fba7950800000000000000
+      internalID: 6447675994344053559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1712
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41952465d3d5a600800000000000000
+      internalID: 479021848846504268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_9
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1712
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53666dfd127ed850800000000000000
+      internalID: 6403681193298387804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_10
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1712
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19c14996f8c66ea0800000000000000
+      internalID: -5879791302026868451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_11
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1712
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4782ba0472381be70800000000000000
+      internalID: 9129222124268628084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4002b712719585aa0800000000000000
+      internalID: -6172085333430427644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1284
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d1ce1b3a94d9a30800000000000000
+      internalID: 4223612992956931477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1284
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41abea3496f41eac0800000000000000
+      internalID: -3827690894762526188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1284
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fe19dde589d2d70800000000000000
+      internalID: 9020033161904647997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1284
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5d3777ce6a4def0800000000000000
+      internalID: -84258958466624079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_17
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1284
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d480684eb293d8d10800000000000000
+      internalID: 2129421059496478797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a39d1ef1bbf5d9f0800000000000000
+      internalID: -444172246334991455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 856
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634fa5e2070b60670800000000000000
+      internalID: 8504678942196298806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 856
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51e775b619c5de80800000000000000
+      internalID: -8154390450913418916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_21
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 856
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cf37d483aa4a480800000000000000
+      internalID: -8888792605728179101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_22
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 856
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7595eab804a6c4b30800000000000000
+      internalID: 4272906971921668439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_23
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 856
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f45a6c492e73ca0800000000000000
+      internalID: -6037107646851100858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82be856ad9b7654d0800000000000000
+      internalID: -3146191372640785624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 428
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b181a3c8919edb90800000000000000
+      internalID: -7215169467697757775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 428
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb4d37394b99b260800000000000000
+      internalID: 7113887825170090977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 428
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abf647ce62a25280800000000000000
+      internalID: -9055997304015225944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_28
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 428
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6627b51c82562070800000000000000
+      internalID: 8081237342976157291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_29
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 428
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81edc10f995272c70800000000000000
+      internalID: 8946160527883427352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f19d727ade30380800000000000000
+      internalID: -9006093527626997914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5305c328b2fcf20800000000000000
+      internalID: 3445020078319351225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f83b20c91581660800000000000000
+      internalID: 7356719721811775354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_33
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c3aa40edd2cfb30800000000000000
+      internalID: 4322380173953088591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_34
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b78a8b9c1bd9a5e0800000000000000
+      internalID: -1897744852044838984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo idle_35
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a3747ce636a9e20800000000000000
+      internalID: 3358105799599012402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5d7de0767e7728146b889d078b17bb49
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":512.0,"y":428.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      inimigo idle_0: 284536029380191802
+      inimigo idle_1: -991957539153352792
+      inimigo idle_10: -5879791302026868451
+      inimigo idle_11: 9129222124268628084
+      inimigo idle_12: -6172085333430427644
+      inimigo idle_13: 4223612992956931477
+      inimigo idle_14: -3827690894762526188
+      inimigo idle_15: 9020033161904647997
+      inimigo idle_16: -84258958466624079
+      inimigo idle_17: 2129421059496478797
+      inimigo idle_18: -444172246334991455
+      inimigo idle_19: 8504678942196298806
+      inimigo idle_2: -1531587738131127346
+      inimigo idle_20: -8154390450913418916
+      inimigo idle_21: -8888792605728179101
+      inimigo idle_22: 4272906971921668439
+      inimigo idle_23: -6037107646851100858
+      inimigo idle_24: -3146191372640785624
+      inimigo idle_25: -7215169467697757775
+      inimigo idle_26: 7113887825170090977
+      inimigo idle_27: -9055997304015225944
+      inimigo idle_28: 8081237342976157291
+      inimigo idle_29: 8946160527883427352
+      inimigo idle_3: 542543138319267713
+      inimigo idle_30: -9006093527626997914
+      inimigo idle_31: 3445020078319351225
+      inimigo idle_32: 7356719721811775354
+      inimigo idle_33: 4322380173953088591
+      inimigo idle_34: -1897744852044838984
+      inimigo idle_35: 3358105799599012402
+      inimigo idle_4: -2549525554213595427
+      inimigo idle_5: 8383988898044799954
+      inimigo idle_6: 4201758359814323678
+      inimigo idle_7: 6447675994344053559
+      inimigo idle_8: 479021848846504268
+      inimigo idle_9: 6403681193298387804
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: fc28fc9b012da7341a8caf69371d409d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4321711894017074567
+    second: inimigo Run_0
+  - first:
+      213: -668583801828211726
+    second: inimigo Run_1
+  - first:
+      213: 4845755431161976025
+    second: inimigo Run_2
+  - first:
+      213: 3063185190653683360
+    second: inimigo Run_3
+  - first:
+      213: 1968557057419987935
+    second: inimigo Run_4
+  - first:
+      213: 8113661239299434388
+    second: inimigo Run_5
+  - first:
+      213: -3738363373741743485
+    second: inimigo Run_6
+  - first:
+      213: -4562349016572015891
+    second: inimigo Run_7
+  - first:
+      213: 8473283104412045546
+    second: inimigo Run_8
+  - first:
+      213: -2632448175353169472
+    second: inimigo Run_9
+  - first:
+      213: -858833145558199709
+    second: inimigo Run_10
+  - first:
+      213: -3378288250316994794
+    second: inimigo Run_11
+  - first:
+      213: -361637214223984372
+    second: inimigo Run_12
+  - first:
+      213: 6880212343590315141
+    second: inimigo Run_13
+  - first:
+      213: 1040050129728715427
+    second: inimigo Run_14
+  - first:
+      213: -3480788396301522964
+    second: inimigo Run_15
+  - first:
+      213: 8285670042340902720
+    second: inimigo Run_16
+  - first:
+      213: -5765481185727394330
+    second: inimigo Run_17
+  - first:
+      213: -7406694896027856337
+    second: inimigo Run_18
+  - first:
+      213: 2832174712121180257
+    second: inimigo Run_19
+  - first:
+      213: 6388519271153965292
+    second: inimigo Run_20
+  - first:
+      213: -3353859516503407906
+    second: inimigo Run_21
+  - first:
+      213: 3793105261966384178
+    second: inimigo Run_22
+  - first:
+      213: 2678003705989970225
+    second: inimigo Run_23
+  - first:
+      213: 1847652654914676264
+    second: inimigo Run_24
+  - first:
+      213: -6932666135158511302
+    second: inimigo Run_25
+  - first:
+      213: -6820632264122866927
+    second: inimigo Run_26
+  - first:
+      213: -1158019608125660406
+    second: inimigo Run_27
+  - first:
+      213: -5403616866615234345
+    second: inimigo Run_28
+  - first:
+      213: -5343084110022942005
+    second: inimigo Run_29
+  - first:
+      213: -5923470316861871630
+    second: inimigo Run_30
+  - first:
+      213: -117184782668438422
+    second: inimigo Run_31
+  - first:
+      213: 4819789636978180403
+    second: inimigo Run_32
+  - first:
+      213: 8518796977573322272
+    second: inimigo Run_33
+  - first:
+      213: 2367776376183897378
+    second: inimigo Run_34
+  - first:
+      213: 3070532949656816318
+    second: inimigo Run_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inimigo Run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a18870ee13604c0800000000000000
+      internalID: -4321711894017074567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2560
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f303751396b8b6f0800000000000000
+      internalID: -668583801828211726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2560
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d454d604e49f3340800000000000000
+      internalID: 4845755431161976025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2560
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6662293be928a20800000000000000
+      internalID: 3063185190653683360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb4b9fb638b15b10800000000000000
+      internalID: 1968557057419987935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2560
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4976c4cb8e3899070800000000000000
+      internalID: 8113661239299434388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382eaca715aae1cc0800000000000000
+      internalID: -3738363373741743485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2048
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea4fd5edb74fa0c0800000000000000
+      internalID: -4562349016572015891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2048
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae09ccf0716279570800000000000000
+      internalID: 8473283104412045546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_9
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2048
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9f272f45aa77bd0800000000000000
+      internalID: -2632448175353169472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3621cadedcfc414f0800000000000000
+      internalID: -858833145558199709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_11
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2048
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617cafa3cb8ed11d0800000000000000
+      internalID: -3378288250316994794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c091e94aed43bfaf0800000000000000
+      internalID: -361637214223984372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1536
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58465fe6cac6b7f50800000000000000
+      internalID: 6880212343590315141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa341325100f6e00800000000000000
+      internalID: 1040050129728715427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1536
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce765244561c1bfc0800000000000000
+      internalID: -3480788396301522964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_16
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04743df010d9cf270800000000000000
+      internalID: 8285670042340902720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_17
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1536
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed458d8865ecffa0800000000000000
+      internalID: -5765481185727394330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f229f820c32263990800000000000000
+      internalID: -7406694896027856337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160c3d925e7ed4720800000000000000
+      internalID: 2832174712121180257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce89ed5ed6498a850800000000000000
+      internalID: 6388519271153965292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_21
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1024
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2404c0a82b471d0800000000000000
+      internalID: -3353859516503407906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_22
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cdb279321d3a430800000000000000
+      internalID: 3793105261966384178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_23
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1024
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13936b29e2e2a2520800000000000000
+      internalID: 2678003705989970225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8262f74ec4e24a910800000000000000
+      internalID: 1847652654914676264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a392f7381e83acf90800000000000000
+      internalID: -6932666135158511302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1136361d71f3851a0800000000000000
+      internalID: -6820632264122866927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_27
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 512
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03abb64d43edefe0800000000000000
+      internalID: -1158019608125660406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_28
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0f613e61f7205b0800000000000000
+      internalID: -5403616866615234345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_29
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 512
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc26c019f4d89d5b0800000000000000
+      internalID: -5343084110022942005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9a0e5712b9bcda0800000000000000
+      internalID: -5923470316861871630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_31
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6467ff9f0daf5ef0800000000000000
+      internalID: -117184782668438422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_32
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3318134732553e240800000000000000
+      internalID: 4819789636978180403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_33
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02edde177b8d83670800000000000000
+      internalID: 8518796977573322272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_34
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22db002b1180cd020800000000000000
+      internalID: 2367776376183897378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo Run_35
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 640
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba4d670379bc9a20800000000000000
+      internalID: 3070532949656816318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1b522b995c044234397dac486408c325
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":640.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      inimigo Run_0: -4321711894017074567
+      inimigo Run_1: -668583801828211726
+      inimigo Run_10: -858833145558199709
+      inimigo Run_11: -3378288250316994794
+      inimigo Run_12: -361637214223984372
+      inimigo Run_13: 6880212343590315141
+      inimigo Run_14: 1040050129728715427
+      inimigo Run_15: -3480788396301522964
+      inimigo Run_16: 8285670042340902720
+      inimigo Run_17: -5765481185727394330
+      inimigo Run_18: -7406694896027856337
+      inimigo Run_19: 2832174712121180257
+      inimigo Run_2: 4845755431161976025
+      inimigo Run_20: 6388519271153965292
+      inimigo Run_21: -3353859516503407906
+      inimigo Run_22: 3793105261966384178
+      inimigo Run_23: 2678003705989970225
+      inimigo Run_24: 1847652654914676264
+      inimigo Run_25: -6932666135158511302
+      inimigo Run_26: -6820632264122866927
+      inimigo Run_27: -1158019608125660406
+      inimigo Run_28: -5403616866615234345
+      inimigo Run_29: -5343084110022942005
+      inimigo Run_3: 3063185190653683360
+      inimigo Run_30: -5923470316861871630
+      inimigo Run_31: -117184782668438422
+      inimigo Run_32: 4819789636978180403
+      inimigo Run_33: 8518796977573322272
+      inimigo Run_34: 2367776376183897378
+      inimigo Run_35: 3070532949656816318
+      inimigo Run_4: 1968557057419987935
+      inimigo Run_5: 8113661239299434388
+      inimigo Run_6: -3738363373741743485
+      inimigo Run_7: -4562349016572015891
+      inimigo Run_8: 8473283104412045546
+      inimigo Run_9: -2632448175353169472
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

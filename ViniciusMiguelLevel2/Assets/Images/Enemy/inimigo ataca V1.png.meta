@@ -1,0 +1,1119 @@
+fileFormatVersion: 2
+guid: 95dca3d203732cb459471f855f16d3af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2530014766957248809
+    second: inimigo ataca V1_0
+  - first:
+      213: 7936221446190457001
+    second: inimigo ataca V1_1
+  - first:
+      213: 3954974282671828985
+    second: inimigo ataca V1_2
+  - first:
+      213: 9013550101774624200
+    second: inimigo ataca V1_3
+  - first:
+      213: 6982110931252331855
+    second: inimigo ataca V1_4
+  - first:
+      213: 8940900381908512835
+    second: inimigo ataca V1_5
+  - first:
+      213: 6765660301502511471
+    second: inimigo ataca V1_6
+  - first:
+      213: -7474391878825650767
+    second: inimigo ataca V1_7
+  - first:
+      213: 9145268750094977917
+    second: inimigo ataca V1_8
+  - first:
+      213: 5143695316397473883
+    second: inimigo ataca V1_9
+  - first:
+      213: -8225320788505857798
+    second: inimigo ataca V1_10
+  - first:
+      213: -6345357607771580140
+    second: inimigo ataca V1_11
+  - first:
+      213: 1122373139605453794
+    second: inimigo ataca V1_12
+  - first:
+      213: -6224331191963721344
+    second: inimigo ataca V1_13
+  - first:
+      213: -6843898836000855247
+    second: inimigo ataca V1_14
+  - first:
+      213: 4470904838632599310
+    second: inimigo ataca V1_15
+  - first:
+      213: -3023148711930659591
+    second: inimigo ataca V1_16
+  - first:
+      213: 1989391533848618727
+    second: inimigo ataca V1_17
+  - first:
+      213: -5091424146173134081
+    second: inimigo ataca V1_18
+  - first:
+      213: 4832353953906681545
+    second: inimigo ataca V1_19
+  - first:
+      213: -4116061861067132941
+    second: inimigo ataca V1_20
+  - first:
+      213: -1319107283571862738
+    second: inimigo ataca V1_21
+  - first:
+      213: -5930210563002311767
+    second: inimigo ataca V1_22
+  - first:
+      213: -7424083572486499361
+    second: inimigo ataca V1_23
+  - first:
+      213: -5034972967449882306
+    second: inimigo ataca V1_24
+  - first:
+      213: -7577002286412270355
+    second: inimigo ataca V1_25
+  - first:
+      213: -5472984401804854016
+    second: inimigo ataca V1_26
+  - first:
+      213: -8405640696010174282
+    second: inimigo ataca V1_27
+  - first:
+      213: 6967660729007416350
+    second: inimigo ataca V1_28
+  - first:
+      213: 5683585242945321723
+    second: inimigo ataca V1_29
+  - first:
+      213: -4837223475074853566
+    second: inimigo ataca V1_30
+  - first:
+      213: -7198081434157849028
+    second: inimigo ataca V1_31
+  - first:
+      213: -6253875987476790797
+    second: inimigo ataca V1_32
+  - first:
+      213: -7531157657906075975
+    second: inimigo ataca V1_33
+  - first:
+      213: 7041419422184576866
+    second: inimigo ataca V1_34
+  - first:
+      213: 3170837000822658947
+    second: inimigo ataca V1_35
+  - first:
+      213: 5334021859466106745
+    second: inimigo ataca V1_36
+  - first:
+      213: -1581688992453935890
+    second: inimigo ataca V1_37
+  - first:
+      213: 235748787770781695
+    second: inimigo ataca V1_38
+  - first:
+      213: -4951359845441427843
+    second: inimigo ataca V1_39
+  - first:
+      213: -1640742720584290742
+    second: inimigo ataca V1_40
+  - first:
+      213: 8434764674966912219
+    second: inimigo ataca V1_41
+  - first:
+      213: -9049404355339998999
+    second: inimigo ataca V1_42
+  - first:
+      213: -5014387981880749598
+    second: inimigo ataca V1_43
+  - first:
+      213: 2896583434154726022
+    second: inimigo ataca V1_44
+  - first:
+      213: -1655877563667055648
+    second: inimigo ataca V1_45
+  - first:
+      213: 7756239264657115258
+    second: inimigo ataca V1_46
+  - first:
+      213: -5137861083319393076
+    second: inimigo ataca V1_47
+  - first:
+      213: 3518420920666445158
+    second: inimigo ataca V1_48
+  - first:
+      213: -4923134068732139538
+    second: inimigo ataca V1_49
+  - first:
+      213: -4827520335078411927
+    second: inimigo ataca V1_50
+  - first:
+      213: -5198352489991342761
+    second: inimigo ataca V1_51
+  - first:
+      213: 1746738841140026917
+    second: inimigo ataca V1_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inimigo ataca V1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2130
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921caf4a60b6c1320800000000000000
+      internalID: 2530014766957248809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_1
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2130
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0e40f7b5f132e60800000000000000
+      internalID: 7936221446190457001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_2
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 2130
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffa57ed724e2e630800000000000000
+      internalID: 3954974282671828985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_3
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 2130
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5667dcf00961d70800000000000000
+      internalID: 9013550101774624200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_4
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 2130
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45caaf26e075e060800000000000000
+      internalID: 6982110931252331855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_5
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 2130
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340bfc3c685741c70800000000000000
+      internalID: 8940900381908512835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1704
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69f40eb23474ed50800000000000000
+      internalID: 6765660301502511471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_7
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1704
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5588eef20a54890800000000000000
+      internalID: -7474391878825650767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_8
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1704
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b44e879758aee70800000000000000
+      internalID: 9145268750094977917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_9
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1704
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5046b643a3126740800000000000000
+      internalID: 5143695316397473883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_10
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1704
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0f87d825ac9dd80800000000000000
+      internalID: -8225320788505857798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_11
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 1704
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419d3f7ffd2c0f7a0800000000000000
+      internalID: -6345357607771580140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1278
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb7f938c68739f00800000000000000
+      internalID: 1122373139605453794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_13
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1278
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0816e9242cbbe99a0800000000000000
+      internalID: -6224331191963721344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_14
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1278
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ba579e4469501a0800000000000000
+      internalID: -6843898836000855247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_15
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1278
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f654b4348db0e30800000000000000
+      internalID: 4470904838632599310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_16
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1278
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc713a834e9b06d0800000000000000
+      internalID: -3023148711930659591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_17
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 1278
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6673e4f0dbb9b10800000000000000
+      internalID: 1989391533848618727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 852
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaf08ee6b0a759b0800000000000000
+      internalID: -5091424146173134081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_19
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 852
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6ef837158ff0340800000000000000
+      internalID: 4832353953906681545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_20
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 852
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff6f819b8fc0e6c0800000000000000
+      internalID: -4116061861067132941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_21
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 852
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23911e1ae691bde0800000000000000
+      internalID: -1319107283571862738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_22
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 852
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab5afc99e8a3bda0800000000000000
+      internalID: -5930210563002311767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_23
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 852
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd31127435b58f890800000000000000
+      internalID: -7424083572486499361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31947533ce202ab0800000000000000
+      internalID: -5034972967449882306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_25
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 426
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4f210b09419d690800000000000000
+      internalID: -7577002286412270355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_26
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 426
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dfa250fad0c04b0800000000000000
+      internalID: -5472984401804854016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_27
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 426
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b01fbc625a295b80800000000000000
+      internalID: -8405640696010174282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_28
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 426
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e142deb448a12b060800000000000000
+      internalID: 6967660729007416350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_29
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 426
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa78606aa620ee40800000000000000
+      internalID: 5683585242945321723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2459bfcc0eabedcb0800000000000000
+      internalID: -4837223475074853566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_31
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36efac92174b1c90800000000000000
+      internalID: -7198081434157849028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_32
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1c9118ce4c539a0800000000000000
+      internalID: -6253875987476790797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_33
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 0
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6ab0d0304fb7790800000000000000
+      internalID: -7531157657906075975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_34
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26719dd48a528b160800000000000000
+      internalID: 7041419422184576866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo ataca V1_35
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 0
+        width: 736
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38713b2d373110c20800000000000000
+      internalID: 3170837000822658947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e4b31be744b2bdd488e57ce2ccf85fdd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":736.0,"y":426.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      inimigo ataca V1_0: 2530014766957248809
+      inimigo ataca V1_1: 7936221446190457001
+      inimigo ataca V1_10: -8225320788505857798
+      inimigo ataca V1_11: -6345357607771580140
+      inimigo ataca V1_12: 1122373139605453794
+      inimigo ataca V1_13: -6224331191963721344
+      inimigo ataca V1_14: -6843898836000855247
+      inimigo ataca V1_15: 4470904838632599310
+      inimigo ataca V1_16: -3023148711930659591
+      inimigo ataca V1_17: 1989391533848618727
+      inimigo ataca V1_18: -5091424146173134081
+      inimigo ataca V1_19: 4832353953906681545
+      inimigo ataca V1_2: 3954974282671828985
+      inimigo ataca V1_20: -4116061861067132941
+      inimigo ataca V1_21: -1319107283571862738
+      inimigo ataca V1_22: -5930210563002311767
+      inimigo ataca V1_23: -7424083572486499361
+      inimigo ataca V1_24: -5034972967449882306
+      inimigo ataca V1_25: -7577002286412270355
+      inimigo ataca V1_26: -5472984401804854016
+      inimigo ataca V1_27: -8405640696010174282
+      inimigo ataca V1_28: 6967660729007416350
+      inimigo ataca V1_29: 5683585242945321723
+      inimigo ataca V1_3: 9013550101774624200
+      inimigo ataca V1_30: -4837223475074853566
+      inimigo ataca V1_31: -7198081434157849028
+      inimigo ataca V1_32: -6253875987476790797
+      inimigo ataca V1_33: -7531157657906075975
+      inimigo ataca V1_34: 7041419422184576866
+      inimigo ataca V1_35: 3170837000822658947
+      inimigo ataca V1_4: 6982110931252331855
+      inimigo ataca V1_5: 8940900381908512835
+      inimigo ataca V1_6: 6765660301502511471
+      inimigo ataca V1_7: -7474391878825650767
+      inimigo ataca V1_8: 9145268750094977917
+      inimigo ataca V1_9: 5143695316397473883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
