@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: dfb677da8d76fbc47bf7c8b6867e51f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6738738417383024671
+    second: sprite-max-px-frames-16-rows-4-cols-4_0
+  - first:
+      213: 8158456983552225788
+    second: sprite-max-px-frames-16-rows-4-cols-4_1
+  - first:
+      213: 5016563292063163334
+    second: sprite-max-px-frames-16-rows-4-cols-4_2
+  - first:
+      213: 1923488752243200801
+    second: sprite-max-px-frames-16-rows-4-cols-4_3
+  - first:
+      213: -1927749588159678763
+    second: sprite-max-px-frames-16-rows-4-cols-4_4
+  - first:
+      213: 3836497226709604607
+    second: sprite-max-px-frames-16-rows-4-cols-4_5
+  - first:
+      213: -6730205012118413559
+    second: sprite-max-px-frames-16-rows-4-cols-4_6
+  - first:
+      213: 9069512886908925866
+    second: sprite-max-px-frames-16-rows-4-cols-4_7
+  - first:
+      213: 5700731741729435553
+    second: sprite-max-px-frames-16-rows-4-cols-4_8
+  - first:
+      213: 120160795008781636
+    second: sprite-max-px-frames-16-rows-4-cols-4_9
+  - first:
+      213: -4863555299537008192
+    second: sprite-max-px-frames-16-rows-4-cols-4_10
+  - first:
+      213: 7489152918554684483
+    second: sprite-max-px-frames-16-rows-4-cols-4_11
+  - first:
+      213: -9176349087861736101
+    second: sprite-max-px-frames-16-rows-4-cols-4_12
+  - first:
+      213: 7939134162528893229
+    second: sprite-max-px-frames-16-rows-4-cols-4_13
+  - first:
+      213: 3364857416293109825
+    second: sprite-max-px-frames-16-rows-4-cols-4_14
+  - first:
+      213: -2769674096571265341
+    second: sprite-max-px-frames-16-rows-4-cols-4_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 165
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inimigo hit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1506
+        width: 592
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e6a9919eed97c4a9e73f704849a011
+      internalID: 1038345179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo hit_1
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1506
+        width: 592
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a81403599c8154b8f6153710247c45
+      internalID: 398378373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo hit_2
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1506
+        width: 592
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d487578e36d67ab4e8ce985a3608c42a
+      internalID: -314625025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo hit_3
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1506
+        width: 592
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7335d0e3dcaf1ef4e8550d8ed3bf1e61
+      internalID: -167812995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo hit_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1004
+        width: 592
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6584d28e5eeccd6448e20b7b156c2c16
+      internalID: 760662766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo hit_5
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1004
+        width: 592
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e46478c20f071469acb4dee27c94fa
+      internalID: 1569769662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo hit_6
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1004
+        width: 592
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8151d7edd20488840b41972ead2a3c45
+      internalID: 419338231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo hit_7
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1004
+        width: 592
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84ee4167e969f74889314b2ec07d5e7
+      internalID: 2143776219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo hit_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 592
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a703eddbce4323b42ae2e3482df414b7
+      internalID: -584304826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo hit_9
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 502
+        width: 592
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4a36cd9c66c054a97eb61f49077890
+      internalID: 993085772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo hit_10
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 502
+        width: 592
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2453a370f96dfad45bae86997a3fd1df
+      internalID: -508123389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo hit_11
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 502
+        width: 592
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383a02759e5239148986a086b7f460bc
+      internalID: 941106285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo hit_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 592
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55751b17b8d79f5409fd7cdc8fd6851f
+      internalID: 656331234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo hit_13
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 592
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ae7b1c581f38a499c4c0fd2b0d4a54
+      internalID: 1039826988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo hit_14
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 0
+        width: 592
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42a7529c589ba746a546a031f39d6ab
+      internalID: -676349999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigo hit_15
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 0
+        width: 592
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12cf6eee856c1a4a9a81c1706e39246
+      internalID: 649228903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3729365dabbfbcd418d12a788e3dd20e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":592.0,"y":502.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      inimigo hit_0: 1038345179
+      inimigo hit_1: 398378373
+      inimigo hit_10: -508123389
+      inimigo hit_11: 941106285
+      inimigo hit_12: 656331234
+      inimigo hit_13: 1039826988
+      inimigo hit_14: -676349999
+      inimigo hit_15: 649228903
+      inimigo hit_2: -314625025
+      inimigo hit_3: -167812995
+      inimigo hit_4: 760662766
+      inimigo hit_5: 1569769662
+      inimigo hit_6: 419338231
+      inimigo hit_7: 2143776219
+      inimigo hit_8: -584304826
+      inimigo hit_9: 993085772
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
