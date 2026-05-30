@@ -160,6 +160,7 @@ public class EnemyController : MonoBehaviour
     {
         SetDirection();
         state = EnemyStates.Attack;
+        rig.linearVelocity = Vector2.zero;
         rig.bodyType = RigidbodyType2D.Kinematic;
         anim.SetTrigger("Attack");
         anim.SetBool("IsWalking", false);
